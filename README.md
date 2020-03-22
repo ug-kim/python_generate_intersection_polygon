@@ -4,7 +4,7 @@ Generate polygon using python shapely, geopandas, and rtree.
 ## This is generating intersection polygon between geojson file and specific lon/lat size box.
 
 ## Requirements
-+ Python < 3.8
++ Python = 3.7
 + GeoPandas
   + When you install geopandas, you may be better making new virtual environment like that
     + conda create --name Test python=3.7 geopandas --yes
